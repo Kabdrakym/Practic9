@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Игра на скорость реакции</title>
+  <link rel="stylesheet" href="reakt.css" />
+  <script src="klik.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Игра на скорость реакции</h1>
+    <p>Успешных нажатий: <span id="score">0</span></p>
+    <p>Среднее время реакции: <span id="averageTime">0</span> мс</p>
+    <p>Оставшееся время: <span id="timeLeft">30</span> сек</p>
+    <button id="startBtn">Начать игру</button>
+    <button id="resetBtn" style="display:none;">Сбросить</button>
+    <div id="gameArea"></div>
+  </div>
+</body>
+</html>

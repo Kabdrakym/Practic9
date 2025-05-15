@@ -1,7 +1,10 @@
 Practic9
 Reacia
+![image](https://github.com/user-attachments/assets/475481c2-faf4-47e9-a335-164e472a1259)
 ![react](https://github.com/user-attachments/assets/8d971c89-2ded-4e6d-8094-7f970bd54bdd)
 XO
+![image](https://github.com/user-attachments/assets/267e4491-b050-4b4b-854b-f0d1a6c5c67d)
 ![xo](https://github.com/user-attachments/assets/ff47f167-504f-48af-802e-d31bad0eb3f6)
 labirint
 ![lab](https://github.com/user-attachments/assets/b84e93f6-8627-4d9e-8f08-b8df8d595b01)
+![image](https://github.com/user-attachments/assets/933b13fd-0917-4630-a989-68e0aa7be494)
